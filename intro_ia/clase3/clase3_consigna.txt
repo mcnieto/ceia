@@ -1,0 +1,11 @@
+Dataset de la clase #3.
+
+Consigna:
+
+1. Escribir una clase dataset que levante los datos en un numpy array estructurado
+2. La clase tiene que tener un metodo para separar los datos en 80% train y 20% test
+3. Hacer una clase que implemente regresion lineal
+4. Regresion lineal con b
+5. Prediccion
+6. Graficos
+7. ECM
