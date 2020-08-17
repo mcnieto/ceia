@@ -420,7 +420,7 @@ if __name__ == '__main__':
     plt.ylabel('error')
     plt.legend()
     plt.show()
-    fig.savefig('minibatch_error_vs_amount of epochs.png')
+    fig.savefig('minibatch_error_vs_amount_of_epochs.png')
     
     print('\nMSE Linear Regresion vs. Minibatch\n')
     print('MSE (Linear Regresion) = {}'.format(error_vector[0]))
@@ -445,7 +445,7 @@ if __name__ == '__main__':
     plt.ylabel('error')
     plt.legend()
     plt.show()
-    fig.savefig('reg_error_vs_amount of epochs.png')
+    fig.savefig('reg_error_vs_amount_of_epochs.png')
     
     print('\nMSE Linear Regresion, MSE Minibatch, Regularization Ridge - Comparation\n')
     print('MSE (Linear Regresion) = {}'.format(error_vector[0]))
